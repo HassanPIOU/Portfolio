@@ -1,0 +1,200 @@
+{
+  "r": {
+    "status": 0,
+    "home": {
+      "id": 1,
+      "background": "http://localhost:8000/uploads/portfolio/home/profile.png",
+      "title1": "Web developer",
+      "title2": "Mobile Developer",
+      "title3": "Web designer",
+      "description": "Your new message:\r\n\r\nAre you in the mood for chatting today ?\r\n\r\nAdd me so we can chat face to face!\r\n\r\nWe live close to each other so let's have some actual fun and chat cam to cam.",
+      "user_id": 1,
+      "status": 1,
+      "created_at": "2020-06-20 22:55:48",
+      "updated_at": "2020-07-15 20:31:19",
+      "id_about": 1,
+      "firstname": "Hassan",
+      "lastname": "PIOU",
+      "experience": 4,
+      "telephone": "+(228) 92 32 84 54",
+      "email": "piouhassan@gmail.com",
+      "address": "Agoè ,Lomé-Togo",
+      "freelance": 1,
+      "langue": "Anglais;Français",
+      "skype": "",
+      "github": "https://github.com/HassanPIOU",
+      "linkedin": "https://www.linkedin.com/in/hassan-piou-a16436180/",
+      "xing": "https://www.xing.com/profile/Hassan_PIOU/cv",
+      "stackoverflow": null,
+      "bg": "http://localhost:8000/uploads/portfolio/about/profile.jpg"
+    },
+    "resume": {
+      "education": [
+        {
+          "id_edu": 3,
+          "titre": "Bachelor",
+          "date_interval": "2010 - 2014",
+          "institut": "La Fabienne",
+          "description": "my college Scholarship",
+          "type": 1,
+          "user_id": 1,
+          "created_at": "2020-06-23 10:50:20",
+          "updated_at": "2020-06-23 10:50:20"
+        },
+        {
+          "id_edu": 4,
+          "titre": "Web development Courses",
+          "date_interval": "2015 - present",
+          "institut": "By practice",
+          "description": "Self-taught training through my business practice",
+          "type": 1,
+          "user_id": 1,
+          "created_at": "2020-06-23 10:56:22",
+          "updated_at": "2020-06-23 11:14:49"
+        }
+      ],
+      "experience": [
+        {
+          "id_edu": 1,
+          "titre": "Web and Mobile Developer",
+          "date_interval": "Jun 2015 - Sept 2018",
+          "institut": "ELTIMAR",
+          "description": " Creation of restful web services for web and mobile applications using PHP;\n Creation of IONIC 3 app design;\n Creation of PHP Backend application;\nWeb design;\nTemplate integration.",
+          "type": 2,
+          "user_id": 1,
+          "created_at": "2020-06-22 14:42:58",
+          "updated_at": "2020-07-15 20:58:42"
+        },
+        {
+          "id_edu": 2,
+          "titre": "Web Developer",
+          "date_interval": "Jan 2019 - Today",
+          "institut": "CLIN SARL",
+          "description": "Creation of Backend application base on PHP (Yii2) and Jquery;\nCreation of Rest API for Mobile application;\nCreation of Frontend application;\nTemplate Integration.",
+          "type": 2,
+          "user_id": 1,
+          "created_at": "2020-06-22 14:46:15",
+          "updated_at": "2020-07-15 20:59:11"
+        }
+      ],
+      "skill": [
+        {
+          "is_skills": 1,
+          "designation": "PHP",
+          "percent": 85,
+          "user_id": 1,
+          "created_at": "2020-06-23 11:06:18",
+          "updated_at": "2020-06-23 11:06:18"
+        },
+        {
+          "is_skills": 2,
+          "designation": "Javascript",
+          "percent": 60,
+          "user_id": 1,
+          "created_at": "2020-06-23 11:09:53",
+          "updated_at": "2020-06-23 11:09:53"
+        },
+        {
+          "is_skills": 3,
+          "designation": "Jquery",
+          "percent": 70,
+          "user_id": 1,
+          "created_at": "2020-06-23 11:10:26",
+          "updated_at": "2020-06-23 09:12:27"
+        },
+        {
+          "is_skills": 4,
+          "designation": "Mysql",
+          "percent": 80,
+          "user_id": 1,
+          "created_at": "2020-06-23 11:10:51",
+          "updated_at": "2020-06-23 11:10:51"
+        },
+        {
+          "is_skills": 5,
+          "designation": "Java Android",
+          "percent": 70,
+          "user_id": 1,
+          "created_at": "2020-06-23 11:11:16",
+          "updated_at": "2020-06-23 11:11:16"
+        },
+        {
+          "is_skills": 6,
+          "designation": "React Js",
+          "percent": 60,
+          "user_id": 1,
+          "created_at": "2020-06-24 10:02:45",
+          "updated_at": "2020-06-24 10:02:45"
+        },
+        {
+          "is_skills": 7,
+          "designation": "Laravel",
+          "percent": 70,
+          "user_id": 1,
+          "created_at": "2020-06-24 10:03:23",
+          "updated_at": "2020-06-24 10:03:23"
+        },
+        {
+          "is_skills": 8,
+          "designation": "Symfony 4",
+          "percent": 60,
+          "user_id": 1,
+          "created_at": "2020-06-24 10:03:36",
+          "updated_at": "2020-06-24 10:03:36"
+        },
+        {
+          "is_skills": 9,
+          "designation": "Yii 2",
+          "percent": 80,
+          "user_id": 1,
+          "created_at": "2020-06-24 10:03:48",
+          "updated_at": "2020-06-24 10:03:48"
+        }
+      ]
+    },
+    "work": [
+      {
+        "id": 1,
+        "projet_type": "Professional website",
+        "customer": 3,
+        "duration": "4 mois",
+        "technologies": "PHP;Jquery;Laravel",
+        "budget": "150.000",
+        "link": "https://montogocom.com",
+        "picture": "http://localhost:8000/uploads/portfolio/portfolio/dashboard.jpg",
+        "user_id": 1,
+        "status": 1,
+        "created_at": "2020-07-18 11:01:02",
+        "updated_at": "2020-07-18 11:01:02"
+      }
+    ],
+    "blog": [
+      {
+        "id": 8,
+        "title": "Become a developer without formation",
+        "author": "1",
+        "tag": "HTML;CSS;JAVASCRIPT;PHP",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci aliquid\nat beatae cumque dolore error expedita illum ipsum iste itaque modi obcaecati officia\nomnis, quas soluta tenetur velit voluptatibus.Accusantium aliquid aspernatur dolores doloribus, error iste itaque molestias\nnecessitatibus neque nisi officiis omnis qui reiciendis soluta, voluptatem? Cumque\ndolore eaque esse, in minima mollitia qui quibusdam rem tempora unde?\nDoloremque doloribus necessitatibus numquam optio praesentium reiciendis temporibus.\nAccusamus, adipisci aliquam eligendi explicabo illo neque perferendis quos veniam\nveritatis voluptatem. Ex minima mollitia nemo obcaecati, perspiciatis placeat quia quod\nvoluptates.Accusamus amet architecto corporis dicta, eos illo nostrum quae quam, quis\nreprehenderit voluptas voluptatibus? Alias aliquam assumenda beatae commodi expedita\nfuga inventore nihil odio odit omnis, quo recusandae ut voluptatum.\nAspernatur corporis illum incidunt nemo quia reprehenderit, voluptate voluptatem\nvoluptatum. Deserunt dolorem facilis iure quo. Alias aliquid debitis dolore ducimus modi\nmolestiae quaerat sequi voluptates. Omnis saepe sint temporibus velit!\nCommodi culpa dolor eaque eligendi illo unde vero vitae. At deleniti doloribus dolorum\neligendi et illo, laudantium minima molestias mollitia nostrum odio officia optio\npariatur recusandae suscipit tempora ullam? Officiis.",
+        "slug": "become-a-developer-without-formation",
+        "picture": "http://localhost:8000/uploads/portfolio/blog/abstract-art-background-633409.jpg",
+        "user_id": 1,
+        "status": 1,
+        "created_at": "2020-07-18 11:13:28",
+        "updated_at": "2020-07-18 19:26:29"
+      },
+      {
+        "id": 6,
+        "title": "Become a  web backend developer",
+        "author": "1",
+        "tag": "PHP;LARAVEL;SYMFONY;MYSQL",
+        "content": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n",
+        "slug": "become-a-web-backend-developer",
+        "picture": "http://localhost:8000/uploads/portfolio/blog/computer-1873831_1920.png",
+        "user_id": 1,
+        "status": 1,
+        "created_at": "2020-07-16 12:28:32",
+        "updated_at": "2020-07-16 12:28:32"
+      }
+    ]
+  }
+}
