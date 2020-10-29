@@ -1,6 +1,6 @@
 {
-  "r": {
-    "status": 0,
+  "statut" : "success",
+  "information": {
     "home": {
       "id": 1,
       "background": "http://localhost:8000/uploads/portfolio/home/profile.png",
